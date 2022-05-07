@@ -1,0 +1,1 @@
+%~dp0gradlew && %~dp0gradlew assemble
